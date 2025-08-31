@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 🤝 Let’s Connect
 
-* 💼 [LinkedIn](#) *https://www.linkedin.com/in/pranavakp/*
+* 💼 [LinkedIn](https://www.linkedin.com/in/pranavakp/)
 * 📫 Reach me at: **[1rn22cs107.pranavakp@gmail.com](mailto:1rn22cs107.pranavakp+githubreadme@gmail.com)**
 
 ---
