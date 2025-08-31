@@ -25,17 +25,15 @@ Here are some ideas to get you started:
 
 * **Languages**: Java, C, Python, SQL, JavaScript
 * **Web**: React.js, Node.js, Express.js, MongoDB (MERN stack)
-* **Databases**: PostgreSQL, MySQL
+* **Databases**: MySQL
 * **Other Interests**: Computer Networks, Cryptography, Operating Systems
 
 ---
 
 ## 📌 Notable Work
 
-
-* **Genie** – symmetric/asymmetric encryption, Base64 encoding layers
-* **Arcade Game Room Project** – part of a college fest with nostalgic retro games
-* **Model-Building Activity** – fractional knapsack simulation
+* **[RouteWise](https://github.com/pranava-kp/RouteWise-A-Sentiment-Driven-Customer-Support-Routing-System/tree/main)** – 5th Semester Mini-Project
+* **[Genie](https://github.com/pranava-kp/car_sales_dbms)** – DBMS Mini-Project
 
 ---
 
@@ -43,10 +41,7 @@ Here are some ideas to get you started:
 
 *  **[Staff Management System](https://github.com/pranava-kp/StaffManagement)** – college project involving role-based access and user authentication
 *  **Network Reconnaissance Exercises** – scanning, firewall evasion, and service enumeration
-* Advanced **database design & query optimization**
-* **Network security techniques** and CTF-style problem solving
-* Hosting and deployment options for **MERN stack projects**
-* 
+* Advanced **database design & query optimization** as part of my [final year project](https://github.com/NishanthN27/Final-Year) (Currently private). 
 
 ---
 
